@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Charlie (@charliedev969) 
 
-<!--
-**charliedev969/charliedev969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile engineer based in Barcelona. Spend most workdays building cross-platform apps with Flutter/Dart and React Native/TypeScript.
 
-Here are some ideas to get you started:
+#### What I'm doing
+- 📱 Building client apps at App Studio
+- 🧪 Messing around with offline-first sync patterns using SQLite and Firebase
+- 🦀 Trying to get comfortable with basic Rust for native mobile modules
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech I use
+- **Frameworks & Languages:** Flutter, Dart, React Native, TypeScript
+- **Backend / Services:** Firebase (Auth, Firestore, Cloud Functions), Supabase, REST, GraphQL
+- **CI/CD & Mobile Ops:** Fastlane, GitHub Actions, App Store Connect, Google Play Console
+
+#### Find me
+- Email: charlie@appstudio.dev
+- LinkedIn: [linkedin.com/in/charliedev969](https://linkedin.com)
+- Twitter/X: [@charliedev969](https://x.com)
